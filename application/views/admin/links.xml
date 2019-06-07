@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <servertime>
+<?php $this->load->model(array('user_model','admin_model');?>
+	<?php foreach (&admin as $admin_item): ?>
+            <td><?php echo $uquery; ?></td>
+?>
+<?php endforeach;?>
+			
+			
+</servertime>
